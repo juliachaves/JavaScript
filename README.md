@@ -7,6 +7,7 @@
 - Ex3-CelsiusToFahrenheit
 - Ex4-DadosEmArray
 - Ex5-IMC
+- Ex6-GeradorDeSenhas
 
 ## Autor
 
