@@ -11,5 +11,6 @@
 
 ## Autor
 
-Julia Chaves
-juliachavesdtr@gmail.com
+### Julia Chaves
+- Email: juliachavesdtr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/juliachavesdtr/
